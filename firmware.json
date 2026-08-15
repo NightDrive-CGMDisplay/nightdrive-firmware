@@ -1,4 +1,5 @@
 {
   "version": "1.0.1",
-  "firmware": "nightdrive_dash.ino.bin"
+  "firmware": "nightdrive_dash.ino.bin",
+  "url": "https://github.com/NightDrive-CGMDisplay/nightdrive-firmware/releases/download/v1.0.1/nightdrive_dash.ino.bin"
 }
